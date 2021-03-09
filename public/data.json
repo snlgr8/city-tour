@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mumbai",
+    "description": "Mumbai, formerly Bombay, is full of dreamers and hard-labourers,    starlets and gangsters and exotic birds, artists and servants,    fisherfolk",
+    "imageUrl": "marine-drive.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Agra",
+    "description": "The magical allure of the Taj Mahal draws tourists to Agra like moths to a wondrous flame. And despite the hype, it’s every bit as good as...",
+    "imageUrl": "Agra.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jaipur",
+    "description": "Enthralling, historical Jaipur, Rajasthan’s capital, is the gateway to India’s most flamboyant state. Jaipur is also known as the..",
+    "imageUrl": "jaipur.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Delhi",
+    "description": "Delhi, the national capital of India, will never cease to amaze you. If you have the will and energy to explore Delhi, there is no dearth of...",
+    "imageUrl": "Delhi.jpg"
+  }
+]
